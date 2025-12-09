@@ -108,7 +108,7 @@ Paste your `memories_history.html` file inside `src/`.
 
 # ▶️ Step 4 — Run the Full Pipeline
 
-Navigate to `src/`:
+In Terminal, navigate to `src/`:
 
 ```bash
 cd "/path/to/Snapchat Memories/src"
